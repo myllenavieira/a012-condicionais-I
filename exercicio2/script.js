@@ -7,7 +7,6 @@ if(idade >= 18){
 }else{
 	console.log(`Você tem ${idade}, e portanto é menor de idade.`);
 }
-
 if(isMaiorIdade.toLowerCase() == 'sim'){
     console.log(`Você terminou o ensino médio.`);
 }else{
